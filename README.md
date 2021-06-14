@@ -1,3 +1,3 @@
 # RespositoryOne
 
-This is a testing Repository for GGKTECH .NET DEV
+This is a testing Repository 
